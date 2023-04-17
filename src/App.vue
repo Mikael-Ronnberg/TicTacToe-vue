@@ -1,13 +1,12 @@
 <script setup lang="ts">
 
-import Board from "./components/Board.vue";
+import Game from "./components/Game.vue";
 
 </script>
 
 <template>
-    <Board>
-        
-    </Board>
+    
+<Game></Game>
 
 </template>
 
